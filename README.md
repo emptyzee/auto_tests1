@@ -10,3 +10,5 @@ $ git config --global user.email johndoe@example.com
 Чтобы сделать коммит, нужно ввести команду:
 
 git commit -m "тут ваше сообщение о коммите"
+
+Или git push origin main для новых репозиториев. - добавление в гит на сайте
