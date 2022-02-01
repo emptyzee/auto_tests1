@@ -12,3 +12,4 @@ $ git config --global user.email johndoe@example.com
 git commit -m "тут ваше сообщение о коммите"
 
 Или git push origin main для новых репозиториев. - добавление в гит на сайте
+pytest -s -v -m smoke test_fixture8.py - прогоняем только смок тесты(заранее выставив фикстуры в коде)
